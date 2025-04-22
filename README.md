@@ -57,7 +57,7 @@ When combined with semantic versioning, releases become a powerful way to commun
 
 ### 🚀 How to start this course
 
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/bryceshen1/FIRST)
+[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=bryceshen1&template_name=FIRST&owner=%40me&name=FIRST&description=Learning+GitHub+Issue+search+and+notifications&visibility=public)
 
 1. Right-click **Start course** and open the link in a new tab.
 2. In the new tab, follow the prompts to create a new repository.
