@@ -43,5 +43,5 @@ function newFeature() {
 }
 ```
 3. Update the version comment at the top to `// Version 0.2.0 - Added new feature`
-4. Commit your changes
+4. Commit your changes to a new branch
 5. Comment "tags-created" on this PR when complete
