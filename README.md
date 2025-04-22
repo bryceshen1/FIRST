@@ -34,8 +34,6 @@ Understanding versioning is crucial for maintaining software projects and commun
 1. Understand and apply semantic versioning principles
 2. Create and manage Git tags
 3. Publish GitHub releases with appropriate documentation
-4. Automate release notes generation
-5. Attach build artifacts to releases
 
 ## Introduction to GitHub Releases
 
