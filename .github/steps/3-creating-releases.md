@@ -56,6 +56,4 @@ function newFeature() {
 ```
 3. Update the version comment to `// Version 0.2.1 - Bug fix for new feature`
 4. Commit your changes to a new branch
-5. Create a new release with tag `v0.2.1`
-6. In the release notes, properly document the bug fix
-7. Comment "release-mastered" on this PR when complete
+5. Comment "release-mastered" on this PR when complete
