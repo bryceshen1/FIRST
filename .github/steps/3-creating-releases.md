@@ -25,14 +25,6 @@ A well-crafted GitHub release includes:
    - **Breaking Changes** section (mention "none" if applicable)
 8. Click "Publish release"
 
-### 📝 Release Notes Best Practices
-
-Good release notes:
-- Group changes by type (features, fixes, breaking changes)
-- Use bullet points for clarity
-- Reference issue numbers when applicable
-- Include upgrade instructions if needed
-- Stay professional but personable
 
 ### 🏷️ Managing Tags and Releases
 
@@ -42,7 +34,6 @@ Some best practices for managing your versioning workflow:
 - **Pre-releases**: Use tags like `v1.0.0-beta.1` for pre-release versions
 - **Build Metadata**: Add build information with `+` (e.g., `v1.0.0+20130313144700`)
 - **Version Control**: Never delete or move tags once published
-- **Automate**: Consider setting up CI/CD workflows to create releases automatically
 
 ### :keyboard: Task: Make a Bug Fix Change
 
