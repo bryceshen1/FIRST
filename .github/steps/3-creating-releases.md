@@ -47,4 +47,4 @@ function newFeature() {
 ```
 3. Update the version comment to `// Version 0.2.1 - Bug fix for new feature`
 4. Commit your changes to a new branch
-5. Comment "release-mastered" on this PR when complete
+5. Comment "release-mastered" on this pull request when complete
