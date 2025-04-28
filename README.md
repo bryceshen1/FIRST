@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Mastering Semantic Versioning and Releases
+# Semantic versioning and GitHub Releases
 
 _Learn how to effectively manage your project's evolution with semantic versioning tags and GitHub releases._
 
