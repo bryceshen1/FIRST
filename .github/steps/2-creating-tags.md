@@ -1,4 +1,4 @@
-## Step 2: Creating Git Tags
+# Step 2: Creating Git Tags
 
 Git tags allow you to mark specific points in your repository's history as important. They're perfect for marking version releases.
 
