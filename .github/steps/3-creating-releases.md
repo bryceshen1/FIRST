@@ -35,7 +35,7 @@ Some best practices for managing your versioning workflow:
 - **Build Metadata**: Add build information with `+` (e.g., `v1.0.0+20130313144700`)
 - **Version Control**: Never delete or move tags once published
 
-### :keyboard: Task: Make a Bug Fix Change
+### :keyboard: Task: Make a bug fix change
 
 1. Edit the `app.js` file again
 2. Fix a "bug" in your new feature function:
