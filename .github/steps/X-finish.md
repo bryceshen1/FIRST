@@ -1,6 +1,6 @@
 ## Finish
 
-_Congratulations on completing this course on Semantic Versioning and GitHub Releases!_
+_Congratulations on completing this course on Semantic versioning and GitHub Releases!_
 
 <img src=https://octodex.github.com/images/snowtocat_final.jpg alt=celebrate width=300 align=right>
 
