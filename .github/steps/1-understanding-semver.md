@@ -1,4 +1,4 @@
-# Step 1: Understanding Semantic Versioning
+# Step 1: Understanding semantic versioning
 
 Semantic Versioning (SemVer) is a versioning scheme that communicates meaning about the underlying changes in a release. It makes it easy for developers to understand the impact of upgrades.
 
@@ -14,7 +14,7 @@ Each number communicates specific kinds of changes:
 
 Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
 
-## 📝 SemVer Examples
+## 📝 SemVer examples
 
 Let's look at some examples:
 
@@ -25,7 +25,7 @@ Let's look at some examples:
 - `1.0.0-alpha`: Pre-release version
 - `1.0.0-beta.1`: Another pre-release version
 
-## :keyboard: Task: Make Your First Change
+## :keyboard: Task: Make your first change
 
 1. Navigate to the `app.js` file in your repository
 2. Click the edit (pencil) icon
