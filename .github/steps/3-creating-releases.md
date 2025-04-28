@@ -1,4 +1,4 @@
-## Step 3: Creating GitHub Releases
+# Step 3: Creating GitHub Releases
 
 GitHub Releases are a way to package and provide software to your users. They're built on Git tags but offer more features like release notes and binary attachments.
 
