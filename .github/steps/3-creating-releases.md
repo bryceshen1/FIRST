@@ -14,8 +14,8 @@ A well-crafted GitHub release includes:
 ### :keyboard: Task: Create your first full release
 
 1. Navigate to your repository's "Code" tab
-2. Click on "Releases" in the right sidebar
-3. Click "Create a new release" (or "Draft a new release")
+2. Click on **Releases** in the right sidebar
+3. Click **Create a new release** (or Draft a new release)
 4. Enter `v0.2.0` as your tag version
 5. Target the main branch
 6. Title your release "First Feature Release"
@@ -23,7 +23,7 @@ A well-crafted GitHub release includes:
    - **What's New** section
    - **Bug Fixes** section (mention "none" if applicable)
    - **Breaking Changes** section (mention "none" if applicable)
-8. Click "Publish"
+8. Click **Publish**
 
 
 ### 🏷️ Managing Tags and Releases
