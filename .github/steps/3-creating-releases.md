@@ -2,7 +2,7 @@
 
 GitHub Releases are a way to package and provide software to your users. They're built on Git tags but offer more features like release notes and binary attachments.
 
-### 📦 Anatomy of a Good Release
+### 📦 Anatomy of a good GitHub Release
 
 A well-crafted GitHub release includes:
 
@@ -11,7 +11,7 @@ A well-crafted GitHub release includes:
 - **Description**: Release notes explaining what changed
 - **Attachments**: Optional compiled binaries, documentation, or other files
 
-### :keyboard: Task: Create your First full release
+### :keyboard: Task: Create your first full release
 
 1. Navigate to your repository's "Code" tab
 2. Click on "Releases" in the right sidebar
@@ -23,7 +23,7 @@ A well-crafted GitHub release includes:
    - **What's New** section
    - **Bug Fixes** section (mention "none" if applicable)
    - **Breaking Changes** section (mention "none" if applicable)
-8. Click "Publish release"
+8. Click "Publish"
 
 
 ### 🏷️ Managing Tags and Releases
