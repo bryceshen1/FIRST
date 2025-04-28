@@ -1,12 +1,12 @@
-# Step 2: Creating Git Tags
+# Step 2: Creating git tags
 
 Git tags allow you to mark specific points in your repository's history as important. They're perfect for marking version releases.
 
-### :keyboard: Task: Create Your First Git Tag
+### :keyboard: Task: Create your first git tag
 
 You can create tags through the GitHub interface or using Git commands.
 
-#### Using GitHub Web Interface:
+#### Using GitHub web interface:
 
 1. Navigate to your repository's **Code** tab
 2. Click on **Releases** in the right sidebar
@@ -17,14 +17,14 @@ You can create tags through the GitHub interface or using Git commands.
 7. Add a description: "This is the first release of our project."
 8. Click **Publish**
 
-#### Using Git Command Line (Alternative Method):
+#### Using git command line (alternative method):
 
 ```bash
 git tag -a v0.1.0 -m "Initial Release"
 git push origin v0.1.0
 ```
 
-### 🔖 Tag Naming Conventions
+### 🔖 Tag naming conventions
 
 Best practices for tag names:
 
