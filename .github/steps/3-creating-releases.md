@@ -11,7 +11,7 @@ A well-crafted GitHub release includes:
 - **Description**: Release notes explaining what changed
 - **Attachments**: Optional compiled binaries, documentation, or other files
 
-### :keyboard: Task: Create Your First Full Release
+### :keyboard: Task: Create your First full release
 
 1. Navigate to your repository's "Code" tab
 2. Click on "Releases" in the right sidebar
