@@ -13,7 +13,7 @@ By mastering these concepts, you've gained valuable skills that will help you:
 
 ### What you've learned:
 
-1. **Semantic Versioning**: Understanding MAJOR.MINOR.PATCH versioning
+1. **Semantic versioning**: Understanding MAJOR.MINOR.PATCH versioning
 2. **Git Tags**: Creating version markers in your repository history
 3. **GitHub Releases**: Publishing releases with documentation and assets
 
