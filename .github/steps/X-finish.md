@@ -1,4 +1,4 @@
-## Finish :confetti_ball:
+# Finish :confetti_ball:
 
 _Congratulations on completing this course on Semantic versioning and GitHub Releases!_
 
