@@ -33,7 +33,7 @@ Best practices for tag names:
 - Avoid spaces or special characters
 - Be consistent across GitHub Releases
 
-### :keyboard: Task: Make Changes for New Version
+### :keyboard: Task: Make changes for new version
 
 1. Edit the `app.js` file again
 2. Add a simple function at the end:
