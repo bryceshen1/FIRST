@@ -28,7 +28,7 @@ Let's look at some examples:
 ## :keyboard: Task: Make your first change
 
 1. Navigate to the `app.js` file in your repository
-2. Click the edit (:pencil2:) icon
+2. Click the edit :pencil2: icon
 3. Edit the File by adding a comment to the bottom of the file: `// Version 0.1.0 - Initial version`
 4. Commit the change directly to a new branch, creating a Pull Request
 5. Create the Pull Request
