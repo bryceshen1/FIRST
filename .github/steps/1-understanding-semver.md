@@ -29,7 +29,7 @@ Let's look at some examples:
 
 1. Navigate to the `app.js` file in your repository
 2. Click the edit (✏️) icon
-3. Edit the File by adding a comment to the bottom of the file: `// Version 0.1.0 - Initial version`
-4. Commit the change directly to a new branch, creating a Pull Request
-5. Create the Pull Request
-6. Comment "semver-understood" on this PR when complete
+3. Edit the file by adding a comment to the bottom of the file: `// Version 0.1.0 - Initial version`
+4. Commit the change directly to a new branch, creating a pull request
+5. Create the pull request
+6. Comment "semver-understood" on this pull request when complete
