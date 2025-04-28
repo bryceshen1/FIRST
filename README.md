@@ -29,7 +29,7 @@ Understanding versioning is crucial for maintaining software projects and commun
 - **Prerequisites**: Basic understanding of Git and GitHub workflows (Pull Requests, Issues, etc).
 - **How long**: 30-45 minutes.
 
-### In this course, you'll learn how to:
+In this course, you'll learn how to:
 
 1. Understand and apply semantic versioning principles
 2. Create and manage Git tags
