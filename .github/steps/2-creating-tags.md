@@ -8,7 +8,7 @@ You can create tags through the GitHub interface or using Git commands.
 
 #### Using GitHub Web Interface:
 
-1. Navigate to your repository's "Code" tab
+1. Navigate to your repository's **Code** tab
 2. Click on **Releases** in the right sidebar
 3. Click **Create a new release**
 4. Enter `v0.1.0` as your tag version
@@ -31,7 +31,7 @@ Best practices for tag names:
 - Prefix with `v` (e.g., `v1.0.0`)
 - Use semantic versioning format
 - Avoid spaces or special characters
-- Be consistent across releases
+- Be consistent across GitHub Releases
 
 ### :keyboard: Task: Make Changes for New Version
 
