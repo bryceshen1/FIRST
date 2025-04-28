@@ -2,7 +2,7 @@
 
 Semantic Versioning (SemVer) is a versioning scheme that communicates meaning about the underlying changes in a release. It makes it easy for developers to understand the impact of upgrades.
 
-## 📝 The SemVer Format
+## 📝 SemVer format
 
 A semantic version number has three parts: **MAJOR.MINOR.PATCH**
 
