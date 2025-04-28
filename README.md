@@ -25,7 +25,7 @@ Understanding versioning is crucial for maintaining software projects and commun
 
 - **Who is this for**: Developers, project maintainers, and open source contributors.
 - **What you'll learn**: Semantic versioning principles, creating and managing tags, and publishing GitHub Releases.
-- **What you'll build**: A versioned project with properly documented Releases and automated Release notes.
+- **What you'll build**: A versioned project with properly documented GitHub Releases and automated Release notes.
 - **Prerequisites**: Basic understanding of Git and GitHub workflows (Pull Requests, Issues, etc).
 - **How long**: 30-45 minutes.
 
