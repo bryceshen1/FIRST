@@ -15,12 +15,12 @@ By mastering these concepts, you've gained valuable skills that will help you:
 
 1. **Semantic versioning**: Understanding MAJOR.MINOR.PATCH versioning
 2. **Git Tags**: Creating version markers in your repository history
-3. **GitHub Releases**: Publishing releases with documentation and assets
+3. **GitHub Releases**: Publishing GitHub Releases with documentation and assets
 
 ### What's next?
 
-- Configure GitHub Actions to automatically create releases on tags
-- Set up automated testing before publishing releases
+- Configure GitHub Actions to automatically create Release tags
+- Set up automated testing before publishing
 - Explore integrating a changelog tool like `standard-version` or `release-it`
 - Learn more about [GitHub Actions for automated releases](https://docs.github.com/en/actions/guides/about-continuous-deployment)
 - [Take another GitHub Skills course](https://github.com/skills)
